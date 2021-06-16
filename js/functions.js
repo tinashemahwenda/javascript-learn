@@ -1,1 +1,4 @@
-console.log('Helloworld');
+function hello(name){
+    console.log('Hello '+name);
+}
+hello('Tinashe');
